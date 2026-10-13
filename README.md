@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ajinkya Ranade 👋</h1>
+<h1 align="center">Ajinkya Ranade</h1>
 
 <p align="center">
   <b>CS @ Santa Clara University '29</b> &nbsp;·&nbsp; building AI infrastructure & web apps that solve real problems
