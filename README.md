@@ -65,15 +65,6 @@ Website for Supertonic!, Santa Clara University's premier a cappella group (I si
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinkya263&show_icons=true&hide_border=true&theme=default" alt="Ajinkya's GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya263&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160">
-</p>
-
----
-
 ### 🎵 Beyond code
 
 When I'm not building, I'm a performing **tabla artist** and play **bass in Supertonic!**, SCU's a cappella group.
